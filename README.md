@@ -1,5 +1,13 @@
 # DaVinci Resolve - Pop!_OS
 
+## Video Guide
+
+<p align="center">
+  <a href="https://youtu.be/8dZn0RPddyc">
+    <img src="https://img.youtube.com/vi/8dZn0RPddyc/0.jpg" width="700">
+  </a>
+</p>
+
 Install [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) on Pop!_OS 24.04 with automatic dependency installation and library conflict resolution.
 
 ## Requirements
